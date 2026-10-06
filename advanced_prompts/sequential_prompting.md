@@ -1,4 +1,4 @@
-    # Sequential Prompting (Prompt Chaining)
+# Sequential Prompting (Prompt Chaining)
 
 ## Overview
 Sequential Prompting (also known as Prompt Chaining) is a technique where you break a large, complex task into a series of smaller, sequential steps. Instead of asking a Large Language Model (LLM) to do everything in one massive prompt, you feed the **output** of Prompt 1 directly into Prompt 2 as its **input**, and so on.
